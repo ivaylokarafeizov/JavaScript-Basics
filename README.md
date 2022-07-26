@@ -42,11 +42,7 @@ The "Programming Basics" course provides the initial programming skills necessar
    </ul> 
 </ol> 
 
-### 🎓 Certificate:  
-    
-<img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="475" height="650"> <img src="https://user-images.githubusercontent.com/106147027/181117065-0ab2e079-b7f3-45fe-9562-bf101811d507.png" align="right" width="475" height="650"> 
- 
-#### 💡 Skills I acquired
+### 💡 Skills I acquired
 
 <ul>
   <li>Working with the console (data input and output)
@@ -56,3 +52,7 @@ The "Programming Basics" course provides the initial programming skills necessar
   <li>Perform simple calculations
   <li>Working with more complex loops (nested for loops and while)
 </ul> 
+    
+#### 🎓 Certificate:  
+    
+<img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="475" height="650"> <img src="https://user-images.githubusercontent.com/106147027/181117065-0ab2e079-b7f3-45fe-9562-bf101811d507.png" align="right" width="475" height="650">   
