@@ -4,7 +4,14 @@ The "Programming Basics" course provides the initial programming skills necessar
 
 ## Themes
 
-![jsBasics](https://user-images.githubusercontent.com/106147027/181108951-3ab34b72-6e91-4a0a-9a1e-6f5e7c35cfac.png)
+<ol>
+  <li><a href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36649" <a/>First Steps In Coding
+  <li>Conditional Statements
+  <li>Conditional Statements Advanced
+  <li>For-Loop
+  <li>While-Loop
+  <li>Nested Loops
+</ol>
 
 ### Skills I acquired
 
