@@ -55,5 +55,4 @@ The "Programming Basics" course provides the initial programming skills necessar
   <li>Working with logical checks (if-else)
   <li>Perform simple calculations
   <li>Working with more complex loops (nested for loops and while)
-</ul>
-
+</ul> 
