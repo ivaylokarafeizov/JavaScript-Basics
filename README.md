@@ -55,4 +55,4 @@ The "Programming Basics" course provides the initial programming skills necessar
     
 #### 🎓 Certificate:  
     
-<a href="https://softuni.bg/certificates/details/131445/8539e087" alt="Certificate Link"><img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="450" height="600"></a> 
+<a href="https://softuni.bg/certificates/details/131445/8539e087" alt="Certificate photo" ><img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="450" height="600" title="JS Basics Certificate Link"></a> 
