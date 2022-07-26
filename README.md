@@ -6,11 +6,11 @@ The "Programming Basics" course provides the initial programming skills necessar
 
 <ol>
   <li><a href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36649" <a/>First Steps In Coding
-  <li>Conditional Statements
-  <li>Conditional Statements Advanced
-  <li>For-Loop
-  <li>While-Loop
-  <li>Nested Loops
+  <li><a href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36651" <a/>Conditional Statements
+  <li><a href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36653" <a/>Conditional Statements Advanced
+  <li><a href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36655" <a/>For-Loop
+  <li><a href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36657" <a/>While-Loop
+  <li><a href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36659" <a/>Nested Loops
 </ol>
 
 ### Skills I acquired
