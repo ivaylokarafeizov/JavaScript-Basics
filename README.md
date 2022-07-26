@@ -1,4 +1,4 @@
-# 👨‍🎓For the course  <a href="https://softuni.bg/about" target="_blank" rel="noreferrer noopener"><img src="https://user-images.githubusercontent.com/106147027/181109879-4529ad22-8d25-49fe-b28b-0d8bc808c5a4.jpg" align="right" width="200" height="200"></a>
+# 👨‍🎓For the course  <a href="https://softuni.bg/about"><img src="https://user-images.githubusercontent.com/106147027/181109879-4529ad22-8d25-49fe-b28b-0d8bc808c5a4.jpg" align="right" width="200" height="200"></a>
 
 The "Programming Basics" course provides the initial programming skills necessary for all technology majors at Software University. This includes writing programming code at an entry level (basic coding skills), working with a development environment (IDE), using variables and data, operators and expressions, working with the console (reading input data and printing results), using conditional constructs (if, if-else) и цикли (for, while, do-while).
 
@@ -55,4 +55,4 @@ The "Programming Basics" course provides the initial programming skills necessar
     
 #### 🎓 Certificate:  
     
-<img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="450" height="600"> 
+<a href="https://softuni.bg/certificates/details/131445/8539e087"><img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="450" height="600"></a> 
