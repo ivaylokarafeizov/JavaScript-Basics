@@ -55,4 +55,4 @@ The "Programming Basics" course provides the initial programming skills necessar
     
 #### 🎓 Certificate:  
     
-<img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="450" height="600"><img  src="https://user-images.githubusercontent.com/106147027/181117065-0ab2e079-b7f3-45fe-9562-bf101811d507.png" align="right" width="450" height="600">
+<img src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="450" height="600"> 
