@@ -53,10 +53,9 @@ The "Programming Basics" course provides the initial programming skills necessar
   <li>Working with more complex loops (nested for loops and while)
 </ul>
 
-#### 🎓 Certificate:
+#### 🎓 Certificate:  
+    
+<img href="https://softuni.bg/trainings/3631/programming-basics-with-javascript-march-2022#lesson-36649" src="https://user-images.githubusercontent.com/106147027/181116862-650f586e-c543-4071-890c-4739aad34e00.png" align="left" width="475" height="650"> <img src="https://user-images.githubusercontent.com/106147027/181117065-0ab2e079-b7f3-45fe-9562-bf101811d507.png" align="right" width="475" height="650"> 
+ 
 
-<a href="https://softuni.bg/certificates/details/131445/8539e087" target="_blank" rel="noreferrer"> 
-   <img src="https://user-images.githubusercontent.com/106147027/180260179-e5302178-cfa9-44e3-9d03-9f6ed7bda134.png" alt="Certificate Logo" width="300" height="100" title="JS Basics Certificate"/></a> 
-![crtfFront](https://user-images.githubusercontent.com/106147027/181116481-a59b90f6-16e2-4582-a4c8-1120b8168286.png) 
-![crtfBack](https://user-images.githubusercontent.com/106147027/181116511-d6ae8cf0-0333-4e58-846e-0df17e6acbd6.png)
 
